@@ -1,0 +1,15 @@
+.form-top-container {
+    margin: 0 auto;
+    border: 1px solid black;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+}
+
+.inputs-container,
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
